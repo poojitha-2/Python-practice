@@ -10,6 +10,7 @@ It is part of my learning journey to build strong foundations in **data analysis
 - Python Basics
   - Variables, data types
   - Loops and conditional statements
+  - Python Data Structures
   - Functions
   - File handling
 
